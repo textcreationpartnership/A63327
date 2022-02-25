@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the irregular proceedings at Guild-Hall, in relation both to the election and swearing Dudley North, and Peter Rich, esquires, sheriffs of London and Middlesex, in the year 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63327</idno>
+            <idno type="STC">Wing T2378</idno>
+            <idno type="STC">ESTC R222521</idno>
+            <idno type="EEBO-CITATION">99833684</idno>
+            <idno type="PROQUEST">99833684</idno>
+            <idno type="VID">38162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the irregular proceedings at Guild-Hall, in relation both to the election and swearing Dudley North, and Peter Rich, esquires, sheriffs of London and Middlesex, in the year 1682</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>North, Dudley, --  Sir, 1641-1691 --  Early works to 1800.</term>
+               <term>Rich, Peter, --  Sir, 1630-1692 --  Early works to 1800.</term>
+               <term>Papillon, Thomas, 1623-1702.</term>
+               <term>Dubois, John.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:38162:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT OF THE Irregular Proceedings At <hi>G<g ref="char:V">Ʋ</g>ILD-HALL,</hi> In Relation both to the ELECTION and SWEARING <hi>Dudley North,</hi> and <hi>Peter Rich,</hi> Eſquires, Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> in the Year 1682.</head>
+            <p>THE Citizens of <hi>London</hi> having a Legal Right to Chuſe Sheriffs for the ſaid City, and for the County of <hi>Middleſex,</hi> did in their <hi>Common Hall</hi> on the 24th of <hi>June,</hi> 1682, duly Elect by View, <hi>Thomas Papillon,</hi> and <hi>John Dubois,</hi> Eſquires, Sheriffs; but a Poll being demanded for <hi>Dudley North,</hi> and <hi>Ralph Box,</hi> Eſquires, and the ſame being granted, upon the Poll the majority fell upon the ſaid <hi>Tho. Papillon,</hi> and <hi>John Dubois.</hi> Afterwards <hi>Sir John Moor,</hi> then Lord Mayor, contrary to Right, and the Truſt repoſed in him, combining with ſeveral other Perſons, did admit the ſaid <hi>Ralph Box</hi> to Fine for Sheriff, as if he had been Legally Choſen, whereas he really was not: And to carry on the Deſign then on foot to deſtroy the Rights of the ſaid Citizens, did by <hi>Armed Force</hi> of the <hi>Trained Bands,</hi> commanded by Lieutenant Collonel <hi>Quiney,</hi> cauſe the ſaid <hi>Dudley North,</hi> and <hi>Peter Rich,</hi> to be ſworn Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> altho the ſaid <hi>Dudley North,</hi> and <hi>Peter Rich</hi> were not Choſen either by the View, or by the Poll.</p>
+            <p>The manner of their Admiſſion and Swearing, being formerly Publiſh'd, is as followeth:</p>
+            <p>The 27th of of <hi>September,</hi> at night, the Lord Mayor iſſued out Tickets to the Aldermen in theſe Words,</p>
+            <p>Sir; <hi>Your Worſhip is deſired to be at a Court of Aldermen at</hi> Guild-Hall <hi>on Thurſday next at nine of the Clock in the forenoon, in your violet Gown and Cloak, being the twenty eighth of</hi> September.</p>
+            <p>Accordingly ſeveral Aldermen appeared at <hi>Guild-hall,</hi> and it being the day appointed for the Swearing of Sheriffs, they attended <hi>Thomas Papillon</hi> and <hi>John Dubois</hi> Eſquires, into the <hi>Guild-Hall</hi> at the Hour appointed by the Lord Mayor, which they found guarded by Foot-Companies of the Trained Bands (a thing expreſly contrary to the <hi>Engliſh</hi> Conſtitutions, which have been jea<g ref="char:EOLhyphen"/>lous of nothing more than the preſerving Elections free from force or terror); ſome whereof were poſted at the Doors, and preſented their Muskets; tho there was no refuſal of entrance, but rather an opening of the Files, and ſome reſpect ſhewn. So all the aforeſaid Aldermen paſſed in<g ref="char:EOLhyphen"/>to the Council Chamber, where having ſtaid a little while, and ſuppoſing my Lord Mayor might go up to the <hi>Huſting;</hi> directly, they went down into the Hall towards the <hi>Huſtings</hi>-door, and there abode ſome time, attending his Lordſhip's coming, the Soldiers with reſpect giving way: But Lieutenant Collonel <hi>Quiney,</hi> who was abſent at their entry, came up to them very much concerned, and made ſeveral turns without ſpeaking to them, but commanded the Soldiers ſeveral times to ſtand to their Arms, and ſo withdrew. But after a quarter of an hour he came back again, and commanded the Soldiers to face about (and ſo alter'd their Figure) and to advance ſo as to en<g ref="char:EOLhyphen"/>compaſs or impriſon the Aldermen, for there was not ſix foot ſquare left them to ſtand upon: Whereupon <hi>Quiney</hi> ſaid to the Aldermen, <hi>I have a Command from the Lieutenancy to keep the Hall clear, and ſuffer none to be here till my Lord Mayor comes.</hi> Upon this, ſeveral Aldermen demanded to ſee the Order, being ready to obey all Legal commands; and asked him, whether he did not know that <hi>they were Magiſtrates of the City; and could believe it reached them?</hi> To which he anſwe<g ref="char:EOLhyphen"/>red, <hi>I have none, but it is with the Major of the Regiment, and I do know you, and you muſt remove.</hi> Further, the Aldermen declared, they were ſummoned to wait on my Lord Mayor at the <hi>Guild-Hall,</hi> and there attended in all peaceableneſs: whereupon he withdrew again for ſome time, but returning, ſaid, <hi>Gentlemen, You MUST withdraw, I have a command to require it.</hi> But being again demanded to ſhew his VVarrant or Order, he anſwer'd in a great heat, That he <hi>would ſhew none, nor to none SUCH AS THEY.</hi> Then laying hands firſt on <hi>Sir P. W</hi>'s ſhoulder who ſtood next to him, he ſaid, <hi>Sir You muſt remove;</hi> and called on his Soldiers to advance cloſe to the Bar, ſo as to thruſt them away; <hi>Sir</hi> P. <hi>W.</hi> only replied to him, <hi>We are in a lawful place, and on our Duty,</hi> de<g ref="char:EOLhyphen"/>ſiring the other Aldermen that were preſent, and the ſoldiers, to take notice of the violence offer<g ref="char:EOLhyphen"/>ed. And ſurely it was ſuch as is ſcarcely to be parallell'd, eſpecially in a well-governed City; that their Civil Magiſtrates ſhould be ſo affronted in their own Room. But <hi>Quiney</hi> anſwered, <hi>He
+<pb n="2" facs="tcp:38162:2"/>cared not for Witneſs, he would juſtify what he did, having Orders from the Lieutenancy ſo to do.</hi> Then he took hold on Sir <hi>J. L.</hi> who was leaning on the Bar, and with very great and repeated Violence pulled him from off the Step, and had like to have thrown him down; who demanded ſtill <hi>by what Order he did it?</hi> And that he would ſhew the ſame. But he replied again, <hi>He would ſhow none.</hi> Then he took hold of Sir <hi>J. S.</hi> and Sir <hi>T. G.</hi> and Ald. C. who likewiſe demanding to ſee his Orders, were anſwered to the ſame purpoſe as aforeſaid. Hereupon all the Aldermen deſiring the Soldiers who were preſent to take notice of the Aſſaults and Miſdemeanours of the ſaid <hi>Qui<g ref="char:EOLhyphen"/>ney,</hi> they withdrew into the <hi>Weſt</hi> part of the Hall, where divers Perſons were walking, <hi>viz. Wi<g ref="char:EOLhyphen"/>thers, Wiſeman, Nicels, Stevent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> &amp;c. ſome of them being of the Lieutenancy, and others not. To whom it was ſaid, <hi>Did not you ſee the Miſdemeanours of</hi> Quiney? But they inſtead of reſenting the Indignities offered to thoſe worthy Aldermen, who had ſerved the City to ſo great a degree, that the Mouth of Malice it ſelf may be ſtopt, anſwered, <hi>He followed <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ders of the Lieute<g ref="char:EOLhyphen"/>nancy,</hi> Then it was asked them (being Acquaintance) <hi>How they came by that Freedom in the Hall, when the</hi> Aldermen <hi>were ſo ill treated there?</hi> Whereupon they anſwered, <hi>They were of the Lieute<g ref="char:EOLhyphen"/>nancy, and attended the coming of my Lord Mayor:</hi> The which the Aldermen told them, <hi>they alſo did, but had not the ſame Civil Treatment.</hi>
+            </p>
+            <p>Not long after came my Lord Mayor, to whom theſe Aldermen joyned themſelves, and went up out of the Great Hall into the Council-Chamber, and Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> with them; where being entred, the firſt Words my Lord Mayor ſaid, were theſe, <hi>viz. Gentlemen, here are fine doings, to go and Swear Sheriffs, and I not preſent:</hi> Whereunto, Sir <hi>J. L.</hi> anſwer'd, <hi>Whoever told your Lordſhip ſo, miſinform'd your Lordſhip; we came very peaceably to the Hall to perform our Duty, and know well what it is to Adminiſter an Oath, and had not the leaſt Intention of ſuch a thing, but to lay our claim by preſenting Sheriffs.</hi>
+            </p>
+            <p>Sir <hi>R. C.</hi> alſo told his Lordſhip, <hi>He ought to be angry with thoſe that had given him falſe Infor<g ref="char:EOLhyphen"/>mation, rather than with theſe he was miſinformed of; and that nothing was intended or deſigned con<g ref="char:EOLhyphen"/>trary to his Lorſhips frequent and publick Declaration, which was. That the matter ſhould be determin'd by Law; and it was adviſed that could not be done, unleſs Mr.</hi> Papillon <hi>and Mr.</hi> Dubois <hi>did preſent themſelves to be Sworn.</hi>
+            </p>
+            <p>Whereupon his Lordſhip ſeemed to reſt ſatisfied; and immediately the reſt of the Aldermen with the other Sheriffs coming in, Mr. <hi>Papillon</hi> and Mr. <hi>Duboi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> preſented themſelves to his Lord<g ref="char:EOLhyphen"/>ſhip, and Mr. <hi>Papillon</hi> read a Paper, the contents whereof, was as follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>To the Right Honourable, the LORD MAYOR, and Court of ALDE<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>MEN: The Humble Declaration of <hi>Thomas Papillon</hi> Mercer, and <hi>John Dubois</hi> Weaver, Citizens of <hi>London.</hi>
+                        </head>
+                        <p>
+                           <hi>OUR Abſence in the Country on</hi> Midſummer-day <hi>laſt, and for ſome time before and ſince, and our being perſonally Strangers to, and no way appearing or concerning our ſelves with any of the Tranſactions or Proceedings then, or ſince uſed in the Choice of Sheriffs for this Honourable City and County of</hi> Middleſex <hi>for the enſuing Year, would have Excuſed our Attendance upon your Lordſhip, and this Honourable Court at this time, and upon this Occaſion, had we not been Informed by divers, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>at by the Suffrages of the Majority of the Citizens in Common-Hall, We were, and ſtand duly Elected <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>eriffs for this City and the County of</hi> Middleſex <hi>for the Enſuing Year.</hi>
+                        </p>
+                        <p>
+                           <hi>Now tho our Perſonal Unacquaintance with the Proceedings uſed in that Affair hath been ſuch and that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>e have not received any Intimation or Command, concerning the ſame from your Lordſhip or this Ho<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>urable Court, whereby we might have had an Opportunity of declaring our ſelves either ready to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ccept, or deſirous to be Excuſed from that Office, as hath been uſual in formor Caſes of the like Na<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>re; yet in regard of the aforeſaid Information, and that the time for ſuch Declaration, as well as for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ny further Election, is now Elapſed, and not knowing of what Conſequence it may be to us, nor what <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>conveniencies, or hazard we might be Obnoxi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>us, or expoſed unto, if we ſhould con<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>nue Silent or Paſſive <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> that Affair.</hi>
+                        </p>
+                        <p>
+                           <hi>Therefore for the avoiding all Prejudices and Inconveniencies, we have thought it a Duty Incumbent on us, to appear at this time before your Lordſhip and this Honourable Court, not to Debate or Queſtion any the Proceedings or Tranſactions in this matter, nor Officiouſly to Court an Office ſo Chargeable in it ſelf, and ſo Inconvenient to Us: But as being Citizens of</hi> London, <hi>and ſo under Obligation to Serve the King and Countrey, when duely Called thereto; and deſirous to Excuſe our ſelves from all Imputation of Crime or Neglect of Duty that might be charged upon Us: We do with all Submiſſion hereby Declare unto your Lordſhip and this Honourable Court, That we are Ready, and do now tender our ſelves to take upon us the Office of Sheriffs for the City of</hi> London, <hi>and County of</hi> Middleſex <hi>for the enſuing Year, and to be Sworn and Admitted into that Office according to our Election, and in Order thereunto, to Attend your Lordſhip and the Aldermen to the</hi> Huſtings <hi>or elſewhere, and either there, or in any other proper Place and Manner, to take the Oaths of the ſaid Office, and ſuch other Oaths as the Law requires, and further to do and perform whatſoever the Law, or the Right and Cuſtoms of this City require of Us concerning the ſaid Office; and We humbly beg your Lordſhips and the Courts Anſwer therein.</hi>
+                        </p>
+                        <closer>
+                           <dateline>Guild-Hall, <date>28 Septemb. 1682.</date>
+                           </dateline>
+                           <signed>Thomas Papillon. John Dubois.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="3" facs="tcp:38162:2"/>
+            <p>The which having read, Mr. <hi>Papillon</hi> preſented it to my Lord Mayor; but he refuſing to take it, Mr. <hi>Papillon</hi> gave it to a Member of the Court, who accepted it, to prove the Tender of themſelves.</p>
+            <p>And his Lordſhip being preſſed to take the matter into debate, for that the Aldermen had been ſummoned to a Court, he anſwered, <hi>There was no buſineſs.</hi> To which it was replied, <q>We have much to ſay, for the Citizens ſeem to be thrown out of poſſeſſion of the Sheriffwick, which they have enjoyed ſo many Ages by free Election: We deſire fairly to tender our Sheriffs, in order to have the buſineſs more fairly determin'd at Law, according to your Lordſhip's Promiſe, and Anſwer to the many Addreſſes made, That the Law ſhould determine it: and it is the only way left us, tho troubleſom and chargeable. And we alſo deſire the matter may be debated, that an Anſwer may be given to the Sheriffs who have tender'd themſelves.</q>
+            </p>
+            <p>Sir <hi>P. W.</hi> then moved, That the aforeſaid Paper, and his Lordſhip's refuſal of it, might be re<g ref="char:EOLhyphen"/>corded. Then Sir <hi>R. C.</hi> whiſper'd to his Lordſhip, and told him, that if he took a Vote of the Court, he would engage them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it; and their averſeneſs to it, ought to alarm him not to take it upon himſelf: Upon which he did heſitate ſome time; but yet at length was prevailed with to go to the <hi>Huſtings</hi> without further ado, taking Mr. <hi>North</hi> and calling Mr. <hi>Rich</hi> to go with him; Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> went along with him alſo, and did prepare themſelves to have ſpoken to his Lordſhip and the Court on the <hi>Huſtings,</hi> and ſo did ſeveral of the Aldermen; the Lord Mayor and ſeveral Aldermen having declared in the Council-Chamber, That they might ſay what they had to ſay when they came on the <hi>Huſtings,</hi> But his Lordſhip would not hear them when they came thither: but the Military Guards, after admitting a few perſons, cloſed again, ſo that the Liveries attending could not come near; and then his Lordſhip called Mr. <hi>North</hi> and Mr. <hi>Rich</hi> to the Book to be ſworn. Mr. <hi>Papillon</hi> being on the <hi>Huſtings,</hi> preſſed the Lord Mayor that he might be heard; but my Lord refuſing to hear him, Mr. <hi>Papillon</hi> preſented a Paper ſigned by himſelf and Mr. <hi>Dubois,</hi> as follows, the ſubſtance of which he deſigned to have ſpoke.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>To the Right Honourable the Lord Mayor and Aldermen at the Court of <hi>Huſtings</hi> in the <hi>Guild hall, London,</hi> aſſembled for the Admiſſion and Swearing the Sheriffs for the City of <hi>London</hi> and County of <hi>Middleſex</hi> for the enſuing Year, this 28th of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1682.</head>
+                        <p>
+                           <hi>WE do here preſent our ſelves, and are ready to take upon us the Office of Sheriffs of this Honoura<g ref="char:EOLhyphen"/>ble City of</hi> London <hi>and County of</hi> Middleſex <hi>for the enſuing year, <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> which, as we are informed, we are choſen by the Majority of the Citizens at the Common-Hall of this City<g ref="char:punc">▪</g> and we are here ready, and do render our ſelves to be admitted thereunto, and to take the Oath of the Office, and ſuch other Oaths as the Law requires, and to do and perform whatſoever the Law, or the Rights and Cuſtoms of this City require of us, relating to that Office.</hi>
+                        </p>
+                        <p>But this Paper being rejected by his Lordſhip with great heat, it was d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>livered to Sir <hi>John Law<g ref="char:EOLhyphen"/>rence</hi> as an Evidence of their Tender; upon which Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> went to the Book with Mr. <hi>North</hi> and <hi>Rich,</hi> and Mr. <hi>Papillon</hi> laid his hand on the Book, and continued it there for ſome time, until the Lord Mayor and ſome of the Aldermen commanded them <hi>to forbear, and to keep the peace, and he gone;</hi> which they complied with, and retired; having before earneſtly preſ<g ref="char:EOLhyphen"/>ſed to be heard, for that they had ſomething of importance to ſay; and ſome of the Aldermen ſaid, <hi>My Lord, when we came out of the Council-Chamber, you ſaid, what we had to ſay on this Sub<g ref="char:EOLhyphen"/>ject, we might ſpeak on the</hi> Huſtings, <hi>and therefore we claim it of right to be heard.</hi> But he refuſed all, and ordered to proceed in adminiſtring the Oath to <hi>North</hi> and <hi>Rich;</hi> whereupon the duly Elected Sheriffs and Six Aldermen withdrew, proteſting againſt all the Irregular and Illegal Proceedings.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="report">
+               <head>A Paper delivered to the Lord Mayor and Court of Aldermen, purporting the Report made by thoſe Worthy Citizens appointed to make a Scrutiny of the Poll taken for Lord Mayor, on the behalf of Sir <hi>Tho. Gould</hi> and Alderman <hi>Corniſh, Octob.</hi> 24. 1682.</head>
+               <opener>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>
+                        <hi>October</hi> 24. 1682.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>WE whoſe Names are here under-written, having been appointed on the behalf of Sir</hi> Thomas Gould <hi>and Alderman</hi> Corniſh, <hi>to inſpect the Poll lately taken for the Election of a Lord Mayor for the Year enſuing, between Sir</hi> VVilliam Pritchard, <hi>Sir</hi> Henry Tulſe, <hi>and the ſaid Sir</hi> Thomas Gould, <hi>and Alderman</hi> Corniſh, <hi>and to make a Scrutiny whether any perſon had polled who had not Legal Right, do hereby certifie, that we do find,</hi>
+               </p>
+               <list>
+                  <item>That the Numbers entred in the Books, amount to for
+<list>
+                        <item>Sir <hi>William Prichard,</hi>—2233</item>
+                        <item>Sir <hi>Henry Tulſe,</hi>—236</item>
+                        <item>Sir <hi>Thomas Gould,</hi>—2289</item>
+                        <item>Alderman <hi>Corniſh,</hi>—2259</item>
+                     </list>
+                  </item>
+               </list>
+               <pb n="4" facs="tcp:38162:3"/>
+               <p>And we do farther Certifie, That the Gentlemen appointed to make the Scrutiny on the be<g ref="char:EOLhyphen"/>half of Sir <hi>William Pritchard,</hi> and Sir <hi>Henry Tulſe,</hi> do make theſe Objections following, <hi>viz.</hi>
+               </p>
+               <p>THat ſeveral Perſons of the <hi>Merchant-Taylors</hi> Company are not duely qualified to Poll, for that they have not taken the Livery-Man's Oath of that Company, entred amongſt the By-Laws, Oaths, and Orders of the ſame.</p>
+               <p>Whereunto we have given an Anſwer to this effect:</p>
+               <p>That the Maſter, Wardens and Aſſiſtants of every Company have power to repeal, ſet aſide, ot ſuſpend the Execution and uſing of their By-Laws, Oaths and Orders, as often as they ſhall think convenient, at their own Wills and Pleaſures.</p>
+               <p>That the firſt of <hi>October</hi> 1680. the then Maſter, and Wardens, and Aſſiſtants of <hi>Merchant-Tay<g ref="char:EOLhyphen"/>lors</hi> Company did, by their Order, ſet aſide the Impoſition of the Oath, before that time uſually Adminiſtred to ſuch as were admitted Livery-men of that Company, upon their Admiſſion; and that the ſeveral Perſons laſt named, were admitted of the Livery of the ſaid Company ſince the making of the ſaid Order laſt mentioned, all which we are ready to prove.</p>
+               <p>They farther make this Objection, That ſeveral Perſons of the Company of <hi>Glovers</hi> have polled, and did not take the Livery mans Oath, entred in their Books upon their Admiſſion, and therefore have no Legal Vote. Whereunto we have given this Anſwer:</p>
+               <p>That this Oath is ſometimes impoſed, and ſometimes omitted, according to the pleaſure of the Maſter, Wardens, and Aſſiſtants this, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the like Oath being no ways eſſential for making a Livery-man in any Company in <hi>London;</hi> And if the Maſters, Wardens and Aſſiſtants, have omit<g ref="char:EOLhyphen"/>ted to Adminiſter the uſual Oath, the Livery-men are not to loſe their Privileges or Franchiſes for the omiſſion of others; and therefore theſe Livery-men have Legal Votes: And moreover, we are ready to prove, that all the ſaid Perſons but Twelve, have taken the ſaid Oath.</p>
+               <p>They furthermore have made this Objection, That ſeveral perſons of the Company of <hi>Uphold<g ref="char:EOLhyphen"/>ers</hi> who have Polled, are of other Companies, and were not fairly Tranſlated according to the Cuſtom of the City, from being Members of ſuch Companies at the time of their reſpective Ad<g ref="char:EOLhyphen"/>miſſions into the <hi>Upholders</hi> Company, and therefore were uncapable of being Livery-men of the ſame.</p>
+               <p>Whereunto we have given this Anſwer, That any Citizen is capable to be at the ſame time a Member, and of the Livery of ſeveral Companies; and that the Uſe of Tranſlation from one Company to another, is for the eaſe of ſuch Citizens, he being not liable if once Tranſlated, ac<g ref="char:EOLhyphen"/>cording to the Cuſtom, to be put in any chargeable Offices by that Company from whence he is ſo Tranſlated; and the want of ſuch Tranſlation ſhall not take away his Right of Polling once, if he was of Twenty Companies: and therefore theſe perſons have Legal Votes.</p>
+               <p>They farther object, That many <hi>Quakers</hi> who are Freemen of this City, and of the Livery, have not Legal Votes; which Aſſertion, as we apprehend, is very ſtrange, ſeeing they have not hitherto been diſabled by any Law whatſoever: which Anſwers of ours we doubt not, will as well ſatisfy all indifferent and unconcerned perſons as our ſelves, that the Objections above-mentioned, are of no weight or moment: And therefore we do farther Certify, (not having any farther regard to the ſaid Objections) as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Sir <hi>William Prichard.</hi>
+                        </cell>
+                        <cell>Sir <hi>Thomas Gould.</hi> Alderman <hi>Corniſh.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>That the Number of the perſons who have Polled twice</cell>
+                        <cell>7</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>The Names of the perſons who are not of the Livery, or were in the Countrey during the time of the Poll, and yet their Names entred in the Poll-Books.</cell>
+                        <cell>76</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>The Number of perſons Polled, who are not Free of the City, are</cell>
+                        <cell>6</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Votes.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>So that Sir <hi>William Pritchard</hi> hath in the whole</cell>
+                        <cell>2144</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Henry Tulſe</hi> hath in the whole</cell>
+                        <cell>0236</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Thomas Gould</hi> hath in the whole</cell>
+                        <cell>2257</cell>
+                     </row>
+                     <row>
+                        <cell>Alderman <hi>Corniſh</hi> hath in the whole</cell>
+                        <cell>2227</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>So that the Majority is fallen upon Sir <hi>Thomas Gould</hi> and <hi>Alderman Corniſh.</hi>
+                  <list>
+                     <item>
+                        <hi>John Ellis,</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Hayes,</hi>
+                     </item>
+                     <item>
+                        <hi>Len. Robinſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Gilbert Nelſon,</hi>
+                     </item>
+                     <item>
+                        <hi>— Jacombe,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Jenkes.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
